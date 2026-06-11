@@ -61,7 +61,6 @@ Unlike most entry-level candidates, I have hands-on experience identifying actua
 
 **Daily Practice:**
 - **TryHackMe** - Hands-on security challenges and CTF exercises
-- **Hack The Box** - Penetration testing skill development
 - **CompTIA Security+ Study** - Preparing for industry-standard certification
 - **Python & Linux** - Building scripting and system administration capabilities
 
