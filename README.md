@@ -42,14 +42,14 @@ NIST Cybersecurity Framework • ISO 27001 Principles
 ### Threat Detection in Healthcare Operations
 
 **What I Did:**
-- 🎯 Identified and reported **12+ phishing attempts** targeting patient data over 6 months
+- 🎯 Identified and reported **12+ phishing attempts** targeting patient data over 12 months
 - 🛡️ Protected **1,000+ confidential patient records** from potential GDPR violations
 - 📊 Managed sensitive patient data in compliance with GDPR and healthcare regulations
 - 🔍 Analyzed clinical correspondence daily for security threats and anomalies
 - 👥 Collaborated with IT security team on incident reporting and response procedures
 
 **Why This Matters:**  
-Unlike most entry-level candidates, I have hands-on experience identifying actual threats in a production environment. I understand:
+Unlike most entry-level candidates, I have hands-on experience identifying actual threats in a live-healthcare environment. I understand:
 - How phishing attacks target healthcare organizations
 - The business impact of security incidents
 - GDPR compliance requirements in regulated environments
@@ -75,8 +75,6 @@ Unlike most entry-level candidates, I have hands-on experience identifying actua
 
 ## 💡 What Makes Me Different
 
-### Healthcare Security Specialist
-
 My healthcare background provides unique advantages:
 
 1. **Real Threat Detection** - Identified actual phishing attempts in live operations, not just training scenarios
@@ -93,11 +91,11 @@ My healthcare background provides unique advantages:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-ambros-cybersecurity)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@email.com)
 
 📍 **Location:** United Kingdom  
-💼 **Open to:** SOC Analyst | Security Analyst | Junior Security Operations roles  
+💼 **Open to:** SOC Analyst | Security Analyst | CyberSecurity Analyst | Junior Security Operations roles   
 🔎 **Status:** Actively seeking entry-level cybersecurity opportunities
 
 ---
