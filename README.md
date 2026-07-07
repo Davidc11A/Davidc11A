@@ -5,7 +5,7 @@
 Transitioning into cybersecurity from healthcare administration, where I identified **12+ phishing attempts** protecting 1,000+ patient records. Combining real-world threat detection experience with technical security training.
 
 ### 🎯 Current Focus
-Building SOC Analyst capabilities through hands-on learning and professional certifications. Seeking **SOC Analyst** or **Junior Security Analyst** roles in the UK.
+Building Defence Networking capabilities through hands-on learning and professional certifications. Seeking **SOC Analyst** or **Junior Cybersecurity Security Analyst** roles in the UK.
 
 ---
 
